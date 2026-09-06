@@ -35,6 +35,10 @@ dynamic formula evaluation, and multi-format data export/import.
 Agricultural intelligence platform providing crop health diagnostics, soil optimization,<br>
 and weather predictive modeling with intelligent action recommendations.
 
+**[Drowsiness-detector](https://github.com/kishore1035/Drowsiness-detector)** &nbsp;·&nbsp; <samp>python, opencv, dlib, computer-vision</samp><br>
+Autonomous real-time driver fatigue and microsleep detection system utilizing 68-point<br>
+facial landmark telemetry, EAR/MAR metric thresholds, and active audio alarm triggers.
+
 **[ConcertCall](https://github.com/kishore1035/ConcertCall)** &nbsp;·&nbsp; <samp>react-native, javascript</samp><br>
 Mobile platform designed for live music enthusiasts, real-time community sync,<br>
 and seamless concert coordination.
