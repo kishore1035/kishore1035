@@ -23,6 +23,10 @@ Currently focused on webhook resiliency, collaborative web applications, and AI-
 
 <img src="./hd-projects.svg" width="620" alt="projects"/>
 
+**[MediCluster](https://github.com/kishore1035/MediCluster)** &nbsp;·&nbsp; <samp>python, react, pytorch, unsupervised-learning, nlp</samp><br>
+Clinical decision support system combining unsupervised patient risk clustering, DenseNet-121<br>
+chest X-ray pathology vision, vital forecasting, and ARIA emergency ambulance dispatch.
+
 **[RazorRecovery](https://github.com/kishore1035/RazorRecovery)** &nbsp;·&nbsp; <samp>typescript, next.js, webhooks</samp><br>
 Smart payment recovery platform built for the Razorpay Buildathon. Integrates live<br>
 webhooks, automated retry logic, and real-time revenue leak analytics.
