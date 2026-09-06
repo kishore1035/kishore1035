@@ -35,7 +35,7 @@ dynamic formula evaluation, and multi-format data export/import.
 Agricultural intelligence platform providing crop health diagnostics, soil optimization,<br>
 and weather predictive modeling with intelligent action recommendations.
 
-**[Drowsiness-detector](https://github.com/kishore1035/Drowsiness-detector)** &nbsp;·&nbsp; <samp>python, opencv, dlib, computer-vision</samp><br>
+**[Drowsiness-Detector](https://github.com/kishore1035/Drowsiness-Detector)** &nbsp;·&nbsp; <samp>python, opencv, dlib, computer-vision</samp><br>
 Autonomous real-time driver fatigue and microsleep detection system utilizing 68-point<br>
 facial landmark telemetry, EAR/MAR metric thresholds, and active audio alarm triggers.
 
