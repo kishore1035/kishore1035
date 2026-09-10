@@ -28,12 +28,6 @@ Currently focused on webhook resiliency, collaborative web applications, and AI-
 - Specializing in **LLM Agents, RAG pipelines & Multimodal ML**
 - End-to-end ownership: data → ML → API → UI
 
-**Languages spoken** &nbsp;
-![English](https://img.shields.io/badge/English-Native-a78bfa?style=flat-square)
-![Hindi](https://img.shields.io/badge/Hindi-Fluent-a78bfa?style=flat-square)
-![Kannada](https://img.shields.io/badge/Kannada-Fluent-a78bfa?style=flat-square)
-![Telugu](https://img.shields.io/badge/Telugu-Fluent-a78bfa?style=flat-square)
-
 <br clear="right"/>
 
 <img src="./hd-stack.svg" width="620" alt="stack"/>
