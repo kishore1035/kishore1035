@@ -24,9 +24,9 @@
 I build fast, test against real constraints, and optimize for precision and scale.<br>
 Currently focused on webhook resiliency, collaborative web applications, and AI-driven platforms.
 
--  **NASA Space Apps 2024** & **Mini SIH 2026** participant
--  Specializing in **LLM Agents, RAG pipelines & Multimodal ML**
--  End-to-end ownership: data → ML → API → UI
+- 🏆 **NASA Space Apps 2024** & **Mini SIH 2026** participant
+- 🤖 Specializing in **LLM Agents, RAG pipelines & Multimodal ML**
+- ⚡ End-to-end ownership: data → ML → API → UI
 
 <br clear="right"/>
 
@@ -88,25 +88,27 @@ Currently focused on webhook resiliency, collaborative web applications, and AI-
 
 | Project | Description | Stack |
 |---|---|---|
-| [ RazorRecovery](https://github.com/kishore1035/RazorRecovery) | Autonomous AI revenue recovery — intercepts failed payment webhooks & runs LLM counterfactual analysis | `TypeScript` `Node.js` `Ollama` `Razorpay` |
-| [ MediCluster](https://github.com/kishore1035/MediCluster) | Multi-modal clinical AI — risk clustering + DenseNet-121 vision + LSTM forecasting + SHAP | `React` `PyTorch` `Flask` `Docker` |
-| [ Pragna 1-A](https://github.com/kishore1035) | Multilingual agentic AI assistant — RAG, multi-provider LLM, JWT auth, SSE streaming, agentic coding loop | `Python` `Flask` `FAISS` `Ollama` `Groq` |
-| [ AgriTech AI](https://github.com/kishore1035/AgritechAI) | Real-time crop disease diagnosis, weather analytics & market intelligence | `Node.js` `Python` `React` `CV` |
-| [ Drowsiness Detector](https://github.com/kishore1035/Drowsiness-Detector) | Real-time driver fatigue detection via EAR+MAR dual-metric analysis | `Python` `OpenCV` `Dlib` |
+| [🔁 RazorRecovery](https://github.com/kishore1035/RazorRecovery) | Autonomous AI revenue recovery — intercepts failed payment webhooks & runs LLM counterfactual analysis | `TypeScript` `Node.js` `Ollama` `Razorpay` |
+| [🏥 MediCluster](https://github.com/kishore1035/MediCluster) | Multi-modal clinical AI — risk clustering + DenseNet-121 vision + LSTM forecasting + SHAP | `React` `PyTorch` `Flask` `Docker` |
+| [🤖 Pragna 1-A](https://github.com/kishore1035) | Multilingual agentic AI assistant — RAG, multi-provider LLM, JWT auth, SSE streaming, agentic coding loop | `Python` `Flask` `FAISS` `Ollama` `Groq` |
+| [🌾 AgriTech AI](https://github.com/kishore1035/AgritechAI) | Real-time crop disease diagnosis, weather analytics & market intelligence | `Node.js` `Python` `React` `CV` |
+| [😴 Drowsiness Detector](https://github.com/kishore1035/Drowsiness-Detector) | Real-time driver fatigue detection via EAR+MAR dual-metric analysis | `Python` `OpenCV` `Dlib` |
 
 ---
 
-## GitHub Stats
+## 📊 GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=kishore1035&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=ffffff" height="155"/>
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kishore1035&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=ffffff" height="155"/>
+<img src="https://github-profile-trophy.vercel.app/?username=kishore1035&theme=darkhub&no-frame=true&no-bg=true&row=1&column=6" width="100%"/>
 
 <br/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=kishore1035&theme=midnight-purple&hide_border=true&background=0d1117&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa" height="155"/>
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=kishore1035&theme=react-dark&bg_color=0d1117&color=a78bfa&line=a78bfa&point=ffffff&hide_border=true" width="100%"/>
 
 </div>
 
