@@ -2,7 +2,7 @@
 
 <img src="./ascii.svg" width="460" alt="Kishore"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=Full-Stack+%26+AI+Systems+Builder;LLM+Agents+%7C+Multimodal+ML+%7C+Web+Architecture;NASA+Space+Apps+2024+Participant;Shipping+Production-Grade+Systems+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=Full-Stack+%26+AI+Systems+Builder;LLM+Agents+%7C+Multimodal+ML+%7C+Web+Architecture;NASA+Space+Apps+2024+Participant;Shipping+Production-Grade+Systems)](https://git.io/typing-svg)
 
 <img src="./stats.svg" width="620" alt="Contributions in the last year"/>
 
@@ -24,9 +24,9 @@
 I build fast, test against real constraints, and optimize for precision and scale.<br>
 Currently focused on webhook resiliency, collaborative web applications, and AI-driven platforms.
 
-- 🏆 **NASA Space Apps 2024** & **Mini SIH 2026** participant
-- 🤖 Specializing in **LLM Agents, RAG pipelines & Multimodal ML**
-- ⚡ End-to-end ownership: data → ML → API → UI
+- **NASA Space Apps 2024** & **Mini SIH 2026** participant
+- Specializing in **LLM Agents, RAG pipelines & Multimodal ML**
+- End-to-end ownership: data → ML → API → UI
 
 <br clear="right"/>
 
@@ -84,19 +84,19 @@ Currently focused on webhook resiliency, collaborative web applications, and AI-
 
 ---
 
-## 🏆 Featured Projects
+## Featured Projects
 
 | Project | Description | Stack |
 |---|---|---|
-| [🔁 RazorRecovery](https://github.com/kishore1035/RazorRecovery) | Autonomous AI revenue recovery — intercepts failed payment webhooks & runs LLM counterfactual analysis | `TypeScript` `Node.js` `Ollama` `Razorpay` |
-| [🏥 MediCluster](https://github.com/kishore1035/MediCluster) | Multi-modal clinical AI — risk clustering + DenseNet-121 vision + LSTM forecasting + SHAP | `React` `PyTorch` `Flask` `Docker` |
-| [🤖 Pragna 1-A](https://github.com/kishore1035) | Multilingual agentic AI assistant — RAG, multi-provider LLM, JWT auth, SSE streaming, agentic coding loop | `Python` `Flask` `FAISS` `Ollama` `Groq` |
-| [🌾 AgriTech AI](https://github.com/kishore1035/AgritechAI) | Real-time crop disease diagnosis, weather analytics & market intelligence | `Node.js` `Python` `React` `CV` |
-| [😴 Drowsiness Detector](https://github.com/kishore1035/Drowsiness-Detector) | Real-time driver fatigue detection via EAR+MAR dual-metric analysis | `Python` `OpenCV` `Dlib` |
+| [RazorRecovery](https://github.com/kishore1035/RazorRecovery) | Autonomous AI revenue recovery — intercepts failed payment webhooks & runs LLM counterfactual analysis | `TypeScript` `Node.js` `Ollama` `Razorpay` |
+| [MediCluster](https://github.com/kishore1035/MediCluster) | Multi-modal clinical AI — risk clustering + DenseNet-121 vision + LSTM forecasting + SHAP | `React` `PyTorch` `Flask` `Docker` |
+| [Pragna 1-A](https://github.com/kishore1035) | Multilingual agentic AI assistant — RAG, multi-provider LLM, JWT auth, SSE streaming, agentic coding loop | `Python` `Flask` `FAISS` `Ollama` `Groq` |
+| [AgriTech AI](https://github.com/kishore1035/AgritechAI) | Real-time crop disease diagnosis, weather analytics & market intelligence | `Node.js` `Python` `React` `CV` |
+| [Drowsiness Detector](https://github.com/kishore1035/Drowsiness-Detector) | Real-time driver fatigue detection via EAR+MAR dual-metric analysis | `Python` `OpenCV` `Dlib` |
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
