@@ -100,15 +100,7 @@ Currently focused on webhook resiliency, collaborative web applications, and AI-
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=kishore1035&theme=darkhub&no-frame=true&no-bg=true&row=1&column=6" width="100%"/>
-
-<br/>
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=kishore1035&theme=midnight-purple&hide_border=true&background=0d1117&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa" height="155"/>
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=kishore1035&theme=react-dark&bg_color=0d1117&color=a78bfa&line=a78bfa&point=ffffff&hide_border=true" width="100%"/>
 
 </div>
 
